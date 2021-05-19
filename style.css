@@ -8,3 +8,8 @@ body .container
 {
     margin: 0px 50px;
 }
+.col-4
+{
+    text-align: center;
+    border: 1px solid black;
+}
