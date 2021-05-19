@@ -1,0 +1,10 @@
+body .container
+{
+    margin: 20px;
+    padding: 20px;
+    border-style: none;
+}
+.nav-link
+{
+    margin: 0px 30px;
+}
