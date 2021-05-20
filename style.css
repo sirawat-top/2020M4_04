@@ -15,7 +15,9 @@ body .container
 }
 .col-4 img
 {
-    padding-left: 70px;
+    padding-left: 50px;
+    width: 200px;
+    height: 200px;
 }
 .col-4 h5
 {
